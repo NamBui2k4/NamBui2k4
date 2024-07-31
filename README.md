@@ -14,12 +14,12 @@
 <!--END_SECTION: badges-->
 
 My name is Nam.
-📘 I'm Student from Ton Duc Thang university. 
-🌱 I’m currently learning Machine learning, deep learning as well as AI. 
-🔭 I’m looking for an AI intership in an intitution specializing in AI.
-👓 I'm a percistent in learning and working.
+- 📘 I'm Student from Ton Duc Thang university. 
+- 🌱 I’m currently learning Machine learning, deep learning as well as AI. 
+- 🔭 I’m looking for an AI intership in an intitution specializing in AI.
+- 👓 I'm a percistent in learning and working.
 
-# : Skill
+# Skill
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,java,pycharm,docker,git,c)](https://skillicons.dev)
 
 # 📫 How to reach me
