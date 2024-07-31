@@ -13,13 +13,18 @@
 <!--START_SECTION: badges-->
 <!--END_SECTION: badges-->
 
-My name is Nam.
-- 📘 I'm Student from Ton Duc Thang university. 
+My name is NamBui.
+- 🏫 I'm Student from Ton Duc Thang university. 
 - 🌱 I’m currently learning Machine learning, deep learning as well as AI. 
 - 🔭 I’m looking for an AI intership in an intitution specializing in AI.
-- 👓 I'm a percistent in learning and working.
+- 👓 I'm a percistent person in learning and working.
 
-# Skill
+## 🎯 Skill
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,java,pycharm,docker,git,c)](https://skillicons.dev)
 
-# 📫 How to reach me
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuong-nam-970033205/)
+
+
+
