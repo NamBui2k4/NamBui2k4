@@ -13,7 +13,6 @@
 <!--START_SECTION: badges-->
 <!--END_SECTION: badges-->
 
-My name is NamBui.
 - 🏫 I'm Student from Ton Duc Thang university. 
 - 🌱 I’m currently learning Machine learning, deep learning as well as AI. 
 - 🔭 I’m looking for an AI intership in an intitution specializing in AI.
