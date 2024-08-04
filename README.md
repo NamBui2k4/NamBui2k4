@@ -19,7 +19,7 @@
 - 👓 I'm a percistent person in learning and working.
 
 ## 🎯 Skill
-[![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,java,pycharm,docker,git,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,java,pycharm,git,c)](https://skillicons.dev)
 
 ## 📫 How to reach me
 
