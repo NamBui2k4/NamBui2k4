@@ -21,7 +21,7 @@
 - 👓 I'm a percistent person in learning and working.
 
 ## 🎯 Skill
-[![My Skills](https://skillicons.dev/icons?i=python,java,pytorch,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,git)](https://skillicons.dev)
 
 
 
